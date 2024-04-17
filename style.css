@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(58, 83, 75);
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+.svg1 {
+    width: 100%
+
+}
+
+
+h1 {
+    
+    font-family: cursive;
+    font-size: 4rem;
+}
+button a {
+    text-decoration:none;
+    color: #000;
+}
